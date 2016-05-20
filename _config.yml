@@ -1,0 +1,14 @@
+layout_spectrum: 0.34742871299386024
+typography_spectrum: 0.11790172290056944
+color:
+  brandStrength: 0.6415491863153875
+  lightness: 0.008139270124956965
+  saturation: 0.8133103079162538
+  rhythmicContrast: 0.9583826428279281
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: mimiscakes
